@@ -8,6 +8,6 @@ This is the code of NeurIPS 2021 paper "Towards Enabling Meta-Learning from Targ
                    De-Chuan Zhan},
       title     = {Towards Enabling Meta-Learning from Target Models},
       booktitle = {Advances in Neural Information Processing Systems 34},
-      pages     = {XXXX--XXXX},
+      pages     = {8060--8071},
       year      = {2021}
     }
